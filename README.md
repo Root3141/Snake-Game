@@ -1,4 +1,5 @@
-![icon](icon.png){:width="300px" height="200px"}
+<img src="icon.png" alt="Icon" width="300px" height="200px"/>
+
 # Classic Snake Game
 
 Just a simple clone of the classic snake game made in Python using pygame. 
