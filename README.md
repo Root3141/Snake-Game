@@ -1,4 +1,4 @@
-<img src="icon.png" alt="Icon" width="300px" height="200px"/>
+<img src="icon.png" alt="Icon" height="200px"/>
 
 # Classic Snake Game
 
