@@ -1,4 +1,4 @@
-![icon](icon.png)
+![icon](icon.png){:width="300px" height="200px"}
 # Classic Snake Game
 
 Just a simple clone of the classic snake game made in Python using pygame. 
