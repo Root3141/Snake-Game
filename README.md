@@ -1,4 +1,4 @@
-
+![icon](icon.jpg)
 # Classic Snake Game
 
 Just a simple clone of the classic snake game made in Python using pygame. 
