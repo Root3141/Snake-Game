@@ -1,4 +1,4 @@
-<img src="/img/icon.png" alt="Icon" height="200px"/>
+<img src="/media/icon.png" alt="Icon" height="200px"/>
 
 # Classic Snake Game
 
@@ -11,8 +11,8 @@ Have fun!
 
 ### Screenshots
 
-<img src="/img/start_screen.png" alt="Start Screen" height="400px"/>
+<img src="/media/start_screen.png" alt="Start Screen" height="400px"/>
 
 
 
-<img src="/img/game_over.png" alt="Game Over Screen" height="400px"/>
+<img src="/media/game_over.png" alt="Game Over Screen" height="400px"/>
