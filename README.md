@@ -16,3 +16,7 @@ Have fun!
 
 
 <img src="/media/game_over.png" alt="Game Over Screen" height="400px"/>
+
+## Demo
+
+<img src="/media/snake.gif" alt="Game Demo" height="400px"/>
